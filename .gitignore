@@ -1,2 +1,5 @@
-.ipynb_checkpoints
 *.csv
+*.gz
+.DS_Store
+*.twbr
+.ipynb_checkpoints
